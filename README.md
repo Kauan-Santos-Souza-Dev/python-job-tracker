@@ -24,7 +24,7 @@ Aplicação de linha de comando desenvolvida em Python para gerenciamento e acom
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/python-job-tracker.git
+git clone https://github.com/Kauan-Santos-Souza-Dev/python-job-tracker.git
 ```
 
 Entre na pasta:
