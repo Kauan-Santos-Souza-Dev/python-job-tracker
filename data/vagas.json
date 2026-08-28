@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "empresa": "Lala",
+        "cargo": "LELE",
+        "tecnologias": [
+            "PAR",
+            "ASD",
+            "GFDS"
+        ],
+        "data_candidatura": "28/08/2026",
+        "status": "Aplicado",
+        "link": "SADKASF.COM",
+        "observacoes": "OSAKFD"
+    }
+]
