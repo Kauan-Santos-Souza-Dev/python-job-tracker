@@ -12,6 +12,18 @@ Aplicação de linha de comando desenvolvida em Python para gerenciamento e acom
 * Estatísticas do processo de candidatura
 * Persistência de dados utilizando JSON
 
+# Exemplo Funcional: 
+
+=== PYTHON JOB TRACKER ===
+
+* 1 - Cadastrar candidatura
+* 2 - Listar candidaturas
+* 3 - Buscar candidatura
+* 4 - Atualizar status
+* 5 - Excluir candidatura
+* 6 - Mostrar estatísticas
+* 0 - Sair
+
 ## Tecnologias
 
 * Python 3
@@ -58,4 +70,6 @@ python-job-tracker/
 
 ## Objetivo
 
-Projeto desenvolvido para praticar Python por meio da construção de uma aplicação funcional, trabalhando conceitos de lógica de programação, funções, manipulação de arquivos, estruturas de dados, tratamento de exceções e organização de código.
+Projeto desenvolvido para praticar Python por meio da construção de uma aplicação funcional, trabalhando conceitos de lógica de programação, funções, manipulação de arquivos, estruturas de dados, tratamento de exceções e organização de código. 
+
+
